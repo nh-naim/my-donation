@@ -90,6 +90,7 @@ body {
 }
 
 .amount {
+    color: rgb(90, 89, 89);
     display: flex;
     text-align: center;
     justify-content: space-evenly;
