@@ -258,6 +258,10 @@ body {
     padding-top: 20px;
 }
 
+.email {
+    padding: 60px 80px;
+}
+
 .footer-text {
     background-color: black;
     text-align: center;
