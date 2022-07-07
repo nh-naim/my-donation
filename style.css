@@ -234,11 +234,11 @@ body {
 }
 
 .update-container {
-    width: 600px;
+    width: 100%;
     height: 200px;
     background-color: bisque;
     background-position: center;
-    pad: 20px 50px;
+    padding-left: 20px;
 }
 
 .update-button {
@@ -250,6 +250,12 @@ body {
     padding: 10px 20px;
     border-color: red;
     border-radius: 5px;
+}
+
+.updates {
+    text-align: center;
+    justify-content: center;
+    padding-top: 20px;
 }
 
 .footer-text {
