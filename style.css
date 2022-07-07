@@ -31,6 +31,11 @@ body {
     color: tomato;
 }
 
+.part1 {
+    text-align: center;
+
+}
+
 .container {
     width: 100%;
     height: 100%;
@@ -44,12 +49,160 @@ body {
     background-image: linear-gradient(tomato, red);
     font-weight: bold;
     color: white;
-    padding: 10px 40px;
+    padding: 10px 30px;
     border-radius: 5px;
-    position: relative;
+    margin-bottom: 40px;
 }
 
 .button-position {
     text-align: center;
     margin-top: 80px;
+}
+
+.part2 {
+    text-align: center;
+    padding: 50px;
+}
+
+.container-2 {
+    text-align: center;
+
+}
+
+.amount {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    padding: 30px 50px;
+}
+
+.button-2-position {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.link-button-2 {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, red);
+    font-weight: bold;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
+
+.sec-3 {
+    display: flex;
+    margin-top: 60px;
+    padding: 20px;
+    justify-content: space-evenly;
+}
+
+.title2 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 40px;
+}
+
+.card1 {
+    width: 350px;
+    height: 250px;
+    text-align: left;
+    box-shadow: 8px 8px 16px gray;
+
+}
+
+.food-title {
+    margin-top: 30px;
+}
+
+.shel-title {
+    margin-top: 30px;
+}
+
+.edu-title {
+    margin-top: 30px;
+}
+
+.card2 {
+    width: 350px;
+    height: 250px;
+    text-align: left;
+    box-shadow: 8px 8px 16px gray;
+}
+
+.card3 {
+    width: 350px;
+    height: 250px;
+    text-align: left;
+    box-shadow: 8px 8px 16px gray;
+    background-color: antiquewhite;
+}
+
+.sec-4 {
+    display: flex;
+    margin-top: 60px;
+    padding: 20px;
+}
+
+.about {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.half-width {
+    margin: 0;
+    width: 50%;
+}
+
+.half-width img {
+    width: 90%;
+    padding-left: 5%;
+}
+
+.con-button {
+    color: whitesmoke;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-weight: bold;
+
+}
+
+.sec-4 {
+    text-align: center;
+
+}
+
+.update-container {
+    width: 600px;
+    height: 200px;
+    background-color: bisque;
+    background-position: center;
+    pad: 20px 50px;
+}
+
+.footer-text {
+    background-color: black;
+    text-align: center;
+}
+
+.foot-text-1 {
+    color: crimson;
+    font-weight: bold;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.foot-para {
+    color: chocolate;
+    font-weight: lighter;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 10px;
+
 }
